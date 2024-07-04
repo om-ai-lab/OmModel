@@ -1,4 +1,4 @@
-# OmModel
+# <img src="omlab.png" alt="speed" width=40>OmModel
 A collection of strong multimodal models for building the best multimodal agents
 
 ---
@@ -16,15 +16,18 @@ A collection of strong multimodal models for building the best multimodal agents
 Here are the various projects we've worked on at OmLab:
 
 ### ⭐️ [OmAgent](https://github.com/OmLab/Project1)
-**Description:** A brief description of what Project 1 is about and its significance.
+**Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**
+
+<img src="OmAgent.png" alt="speed" width=600>
 
 ### ⭐️ [OmDet](https://github.com/om-ai-lab/OmDet)
 **Fast and accurate open-vocabulary end-to-end object detection** 
 
-### ⭐️ [OmChat](https://github.com/OmLab/Project3)
-**Description:** A brief description of what Project 3 is about and its significance.
+<img src="turbo_model_structure.jpeg" alt="speed" width=600>
 
-<!-- Add more projects as needed -->
+### ⭐️ [OmChat](https://github.com/OmLab/Project3)
+**Multimodal Language Models with Strong Long Context and Video Understanding**
+
 
 ---
 
