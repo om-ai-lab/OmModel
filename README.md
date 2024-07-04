@@ -9,8 +9,8 @@ A collection of strong multimodal models for building the best multimodal agents
 ---
 
 ## 🗓️ Updates
-* **07/04/2024**: [OmAgent](https://github.com/OmLab/Project1) is now open-sourced. 🌟 Dive into our Multi-modal Agent Framework for complex video understanding. Read more in our [paper](https://arxiv.org/abs/2406.16620).
-* **06/09/2024**: [OmChat](https://github.com/OmLab/Project1) has been released. 🎉 Discover the capabilities of our multimodal language models, featuring robust video understanding and support for context up to 512k. More details in the [technical report]().
+* **07/04/2024**: [OmAgent](https://github.com/om-ai-lab/OmAgent) is now open-sourced. 🌟 Dive into our Multi-modal Agent Framework for complex video understanding. Read more in our [paper](https://arxiv.org/abs/2406.16620).
+* **06/09/2024**: [OmChat](https://github.com/om-ai-lab/OmChat) has been released. 🎉 Discover the capabilities of our multimodal language models, featuring robust video understanding and support for context up to 512k. More details in the [technical report]().
 * **03/12/2024**: [OmDet](https://github.com/om-ai-lab/OmDet) is now open-sourced. 🚀 Experience our fast and accurate Open Vocabulary Detection (OVD) model, achieving 100 FPS. Learn more in our [paper](https://arxiv.org/abs/2209.05946).
 
 
@@ -20,7 +20,7 @@ A collection of strong multimodal models for building the best multimodal agents
 
 Here are the various projects we've worked on at OmLab:
 
-### ⭐️ [OmAgent](https://github.com/OmLab/Project1)
+### ⭐️ [OmAgent](https://github.com/om-ai-lab/OmAgent)
 **Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**
 
 <img src="OmAgent.png" alt="speed" width=600>
@@ -32,7 +32,7 @@ Here are the various projects we've worked on at OmLab:
 
 
 
-### ⭐️ [OmChat](https://github.com/OmLab/Project3)
+### ⭐️ [OmChat](https://github.com/om-ai-lab/OmChat)
 **Multimodal Language Models with Strong Long Context and Video Understanding**
 
 <img src="omchat_structure.jpg" alt="speed" width=600>
