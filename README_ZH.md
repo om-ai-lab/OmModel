@@ -9,8 +9,8 @@
 ---
 
 ## 🗓️ 最新进展
-* **07/04/2024**: [OmAgent](https://github.com/OmLab/Project1) 现已开源。🌟 探索我们的复杂视频理解多模态智能体框架。阅读我们的[论文](https://arxiv.org/abs/2406.16620)了解更多。
-* **06/09/2024**: [OmChat](https://github.com/OmLab/Project1) 已发布。🎉 尝试我们多模态大语言模型的强大功能，具备视频理解并支持长达512k的上下文。更多详情请见[技术报告]()。
+* **07/04/2024**: [OmAgent](https://github.com/om-ai-lab/OmAgent) 现已开源。🌟 探索我们的复杂视频理解多模态智能体框架。阅读我们的[论文](https://arxiv.org/abs/2406.16620)了解更多。
+* **06/09/2024**: [OmChat](https://github.com/om-ai-lab/OmChat) 已发布。🎉 尝试我们多模态大语言模型的强大功能，具备视频理解并支持长达512k的上下文。更多详情请见[技术报告]()。
 * **03/12/2024**: [OmDet](https://github.com/om-ai-lab/OmDet) 现已开源。🚀 体验我们快速且准确的开放词表多模态目标检测（OVD）模型，最快推理速度可达到100 FPS。欲了解更多请阅读我们的[论文](https://arxiv.org/abs/2209.05946)。
 
 
@@ -18,7 +18,7 @@
 
 ## 🗃️ 开源项目
 
-### ⭐️ [OmAgent](https://github.com/OmLab/Project1)
+### ⭐️ [OmAgent](https://github.com/om-ai-lab/OmAgent)
 **基于Task Divide-and-Conquer的复杂视频理解多模态智能体框架**
 
 <img src="OmAgent.png" alt="speed" width=600>
@@ -28,7 +28,7 @@
 
 <img src="turbo_model_structure.jpeg" alt="Image 1" width=600>
 
-### ⭐️ [OmChat](https://github.com/OmLab/Project3)
+### ⭐️ [OmChat](https://github.com/om-ai-lab/OmChat)
 **具有超长上下文和强大视频理解能力的多模态大语言模型**
 
 <img src="omchat_structure.jpg" alt="speed" width=600>
