@@ -31,12 +31,15 @@ Here are the various projects we've worked on at OmLab:
 <img src="turbo_model_structure.jpeg" alt="Image 1" width=600>
 
 
-
 ### ⭐️ [OmChat](https://github.com/om-ai-lab/OmChat)
 **Multimodal Language Models with Strong Long Context and Video Understanding**
 
 <img src="omchat_structure.jpg" alt="speed" width=600>
 
+### ⭐️ [OVDEval](https://github.com/om-ai-lab/OVDEval)
+**A Comprehensive Evaluation Benchmark for Open-Vocabulary Detection**
+
+<img src="ovdeval_radar.jpg" alt="speed" width=600>
 ---
 
 ## 📜 Papers
