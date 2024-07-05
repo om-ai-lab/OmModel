@@ -40,6 +40,7 @@ Here are the various projects we've worked on at OmLab:
 **A Comprehensive Evaluation Benchmark for Open-Vocabulary Detection**
 
 <img src="ovdeval_radar.jpg" alt="speed" width=600>
+
 ---
 
 ## 📜 Papers
