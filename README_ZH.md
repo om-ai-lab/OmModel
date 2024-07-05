@@ -37,6 +37,7 @@
 **一个开放词表目标检测模型的综合评估基准数据集**
 
 <img src="ovdeval_radar.jpg" alt="speed" width=600>
+
 ---
 
 ## 📜 论文以及技术报告
