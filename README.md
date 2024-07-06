@@ -1,4 +1,4 @@
-# <img src="omlab.png" alt="speed" width=40>OmModel  
+# <img src="omlab.png" alt="speed" width=40> OmModel  
 
 <p align="right">
 <a href="README.md">English</a> | <a href="README_ZH.md">中文</a>
