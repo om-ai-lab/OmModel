@@ -10,7 +10,7 @@ A collection of strong multimodal models for building the best multimodal agents
 
 ## 🗓️ Updates
 * **07/04/2024**: [OmAgent](https://github.com/om-ai-lab/OmAgent) is now open-sourced. 🌟 Dive into our Multi-modal Agent Framework for complex video understanding. Read more in our [paper](https://arxiv.org/abs/2406.16620).
-* **06/09/2024**: [OmChat](https://github.com/om-ai-lab/OmChat) has been released. 🎉 Discover the capabilities of our multimodal language models, featuring robust video understanding and support for context up to 512k. More details in the [technical report]().
+* **06/09/2024**: [OmChat](https://github.com/om-ai-lab/OmChat) has been released. 🎉 Discover the capabilities of our multimodal language models, featuring robust video understanding and support for context up to 512k. More details in the [technical report](https://arxiv.org/abs/2407.04923).
 * **03/12/2024**: [OmDet](https://github.com/om-ai-lab/OmDet) is now open-sourced. 🚀 Experience our fast and accurate Open Vocabulary Detection (OVD) model, achieving 100 FPS. Learn more in our [paper](https://arxiv.org/abs/2209.05946).
 
 
@@ -59,7 +59,7 @@ Here are the research papers published by OmLab:
 ### 🏷️ [OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer](https://arxiv.org/abs/2406.16620)
 **Published in:** Arxiv. 2024  
 
-### 🏷️ [OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding]()
+### 🏷️ [OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding](https://arxiv.org/abs/2407.04923)
 **Published in:** Arxiv. 2024 (Comming Soon)
 
 ### 🏷️ [Sparta: Efficient open-domain question answering via sparse transformer matching retrieval](https://arxiv.org/pdf/2009.13013)
