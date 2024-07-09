@@ -60,7 +60,7 @@ Here are the research papers published by OmLab:
 **Published in:** Arxiv. 2024  
 
 ### 🏷️ [OmChat: A Recipe to Train Multimodal Language Models with Strong Long Context and Video Understanding](https://arxiv.org/abs/2407.04923)
-**Published in:** Arxiv. 2024 (Comming Soon)
+**Published in:** Arxiv. 2024
 
 ### 🏷️ [Sparta: Efficient open-domain question answering via sparse transformer matching retrieval](https://arxiv.org/pdf/2009.13013)
 **Published in:** NAACL, 2021
